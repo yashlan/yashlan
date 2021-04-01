@@ -1,5 +1,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yashlan)](https://github.com/anuraghazra/github-readme-stats)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yashlan&show_icons=true&theme=radical)
 - 👋 Hi, I’m @yashlan
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
