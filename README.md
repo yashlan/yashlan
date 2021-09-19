@@ -2,7 +2,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yashlan&show_icons=true&theme=algolia)
 
 ## MOST LANGUAGE
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yashlan)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yashlan)
 
 
 <!---
