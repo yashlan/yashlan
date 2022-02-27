@@ -2,8 +2,8 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yashlan&hide=TeX&layout=compact)
 
-<!--![Yashlan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yashlan) lanjot besok-->
-
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 [![Linkedin Badge](https://img.shields.io/badge/-yashlan-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yashlan/)](https://www.linkedin.com/in/yashlan/)
 [![Gmail Badge](https://img.shields.io/badge/-yashlan007@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:yashlan007@gmail.com)](mailto:yashlan007@gmail.com)
 
