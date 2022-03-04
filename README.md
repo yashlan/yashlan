@@ -2,8 +2,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yashlan&hide=TeX&layout=compact)
 
-![wakatime](https://wakatime.com/badge/github/yashlan/yashlan.svg)
-
 [![Linkedin Badge](https://img.shields.io/badge/-yashlan-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yashlan/)](https://www.linkedin.com/in/yashlan/)
 [![Gmail Badge](https://img.shields.io/badge/-yashlan007@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:yashlan007@gmail.com)](mailto:yashlan007@gmail.com)
 
@@ -25,4 +23,4 @@
 ![Discord](https://img.shields.io/badge/Discord-black?style=flat-square&logo=discord)
 ![Windows](https://img.shields.io/badge/windows-black?style=plastic&logo=windows)
 
- <img src="https://wakatime.com/share/@b645fd2f-8dde-4651-aa23-6078acda8f9a/b29a548c-d1fb-470b-930d-d8146fcdb422.svg" width="500"><img src="https://wakatime.com/share/@b645fd2f-8dde-4651-aa23-6078acda8f9a/5386c249-e3ed-413c-bdad-f30e7e051e5a.svg" width="500">
+ <img src="https://wakatime.com/share/@b645fd2f-8dde-4651-aa23-6078acda8f9a/b29a548c-d1fb-470b-930d-d8146fcdb422.svg" width="500"><img src="https://wakatime.com/share/@b645fd2f-8dde-4651-aa23-6078acda8f9a/98aba062-0ff0-4154-8640-936ded8f76cd.svg" width="500">
