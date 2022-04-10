@@ -5,7 +5,7 @@
 # Let's Connect
 
 [![Linkedin Badge](https://img.shields.io/badge/-yashlan-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yashlan/)](https://www.linkedin.com/in/yashlan/)
-![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCqMhzT9CiyRMx-Gz9E3BFbQ?label=yashlan&style=social)
+[![YouTube Channel](https://img.shields.io/youtube/channel/subscribers/UCqMhzT9CiyRMx-Gz9E3BFbQ?label=yashlan&style=social&link=https://youtube.com/c/DroidGeeks)](https://youtube.com/c/DroidGeeks)
 [![Gmail Badge](https://img.shields.io/badge/-yashlan007@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:yashlan007@gmail.com)](mailto:yashlan007@gmail.com)
 
 # Technologies and Languages
