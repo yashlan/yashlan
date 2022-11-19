@@ -8,7 +8,7 @@
 [![YouTube Channel](https://img.shields.io/youtube/channel/subscribers/UCqMhzT9CiyRMx-Gz9E3BFbQ?label=yashlan&style=social&link=https://youtube.com/c/DroidGeeks)](https://youtube.com/c/DroidGeeks)
 [![Gmail Badge](https://img.shields.io/badge/-yashlan007@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:yashlan007@gmail.com)](mailto:yashlan007@gmail.com)
 
-# Technologies and Languages
+# Tech Stack
 
 ![Android](https://img.shields.io/badge/Android%20Studio-black?style=plastic&logo=android-studio)
 ![Unity](https://img.shields.io/badge/Unity-black?style=plastic&logo=Unity)
