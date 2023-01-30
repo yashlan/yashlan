@@ -39,7 +39,9 @@
 
 ## Activity
 
-![Yashlan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yashlan)<br>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+![Yashlan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yashlan)
 <!--  <img src="https://wakatime.com/share/@b645fd2f-8dde-4651-aa23-6078acda8f9a/b29a548c-d1fb-470b-930d-d8146fcdb422.svg" width="500"><img src="https://wakatime.com/share/@b645fd2f-8dde-4651-aa23-6078acda8f9a/98aba062-0ff0-4154-8640-936ded8f76cd.svg" width="500"> -->
 
 ## Stats
