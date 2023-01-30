@@ -37,7 +37,7 @@
 
 [![Firebase](https://img.shields.io/badge/firebase-black?style=for-the-badge&logo=firebase)](https://firebase.google.com/)<br>
 
-## Activity
+## **Activity**
 
 <!--START_SECTION:waka-->
 
@@ -55,9 +55,10 @@ JavaScript             24 hrs 10 mins  ▓░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
-![Yashlan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yashlan)
+
+<!-- ![Yashlan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yashlan) -->
 <!--  <img src="https://wakatime.com/share/@b645fd2f-8dde-4651-aa23-6078acda8f9a/b29a548c-d1fb-470b-930d-d8146fcdb422.svg" width="500"><img src="https://wakatime.com/share/@b645fd2f-8dde-4651-aa23-6078acda8f9a/98aba062-0ff0-4154-8640-936ded8f76cd.svg" width="500"> -->
 
-## Stats
+## **Stats**
 ![Yashlan's GitHub stats](https://github-readme-stats.vercel.app/api?username=yashlan&show_icons=true&theme=algolia)
 
