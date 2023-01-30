@@ -40,6 +40,20 @@
 ## Activity
 
 <!--START_SECTION:waka-->
+
+```text
+From: 13 October 2021 - To: 29 January 2023
+
+Total Time: 736 hrs 59 mins
+
+Kotlin                 437 hrs 24 mins ███████████████░░░░░░░░░░   59.35 %
+XML                    100 hrs 47 mins ███▒░░░░░░░░░░░░░░░░░░░░░   13.68 %
+Java                   51 hrs 18 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   06.96 %
+Dart                   46 hrs 14 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   06.28 %
+Groovy                 24 hrs 17 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.30 %
+JavaScript             24 hrs 10 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.28 %
+```
+
 <!--END_SECTION:waka-->
 ![Yashlan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yashlan)
 <!--  <img src="https://wakatime.com/share/@b645fd2f-8dde-4651-aa23-6078acda8f9a/b29a548c-d1fb-470b-930d-d8146fcdb422.svg" width="500"><img src="https://wakatime.com/share/@b645fd2f-8dde-4651-aa23-6078acda8f9a/98aba062-0ff0-4154-8640-936ded8f76cd.svg" width="500"> -->
