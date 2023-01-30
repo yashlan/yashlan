@@ -1,11 +1,16 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&vCenter=true&width=835&lines=Hello+There%2C+My+Name+Is+Muhammad+Yashlan+Iskandar.;I'm+currently+interested+in+Flutter.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&vCenter=true&center=true&width=1035&lines=Hello+There%2C+My+Name+Is+Muhammad+Yashlan+Iskandar.;I'm+currently+interested+in+Flutter.)](https://git.io/typing-svg)
+
+<!-- <p align="center">
+  <img src="https://raw.githubusercontent.com/matfantinel/matfantinel/master/logo.svg" width="300" height="100">
+</p>	 -->
+<img src="https://raw.githubusercontent.com/matfantinel/matfantinel/master/waves.svg" width="100%" height="150">
 
 <!-- [Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yashlan&hide=TeX&layout=compact) -->
 [![wakatime](https://wakatime.com/badge/user/b645fd2f-8dde-4651-aa23-6078acda8f9a.svg?style=for-the-badge)](https://wakatime.com/@b645fd2f-8dde-4651-aa23-6078acda8f9a)
 [![Linkedin Badge](https://img.shields.io/badge/-yashlan-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yashlan/)](https://www.linkedin.com/in/yashlan/)
 [![YouTube Channel](https://img.shields.io/youtube/channel/subscribers/UCqMhzT9CiyRMx-Gz9E3BFbQ?label=yashlan&style=for-the-badge&link=https://youtube.com/c/DroidGeeks)](https://youtube.com/c/DroidGeeks)
 
-## Tech Stack
+## **Tech Stack**
 
 [![Android Studio](https://img.shields.io/badge/Android%20Studio-black?style=for-the-badge&logo=android-studio)](https://developer.android.com/studio)
 [![Unity](https://img.shields.io/badge/Unity-black?style=for-the-badge&logo=Unity)](https://unity.com/)
@@ -34,7 +39,7 @@
 
 ## Activity
 
-![Yashlan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yashlan)
+![Yashlan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yashlan)<br>
 <!--  <img src="https://wakatime.com/share/@b645fd2f-8dde-4651-aa23-6078acda8f9a/b29a548c-d1fb-470b-930d-d8146fcdb422.svg" width="500"><img src="https://wakatime.com/share/@b645fd2f-8dde-4651-aa23-6078acda8f9a/98aba062-0ff0-4154-8640-936ded8f76cd.svg" width="500"> -->
 
 ## Stats
