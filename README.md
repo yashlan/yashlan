@@ -11,7 +11,7 @@
 [![Unity](https://img.shields.io/badge/Unity-black?style=for-the-badge&logo=Unity)](https://unity.com/)
 [![Visual Studio](https://img.shields.io/badge/Visual%20Studio-black?style=for-the-badge&logo=visual-studio)](https://visualstudio.microsoft.com/)
 [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-black?style=for-the-badge&logo=visual-studio-code)](https://code.visualstudio.com/)
-![Figma](https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=Figma)<br>
+[![Figma](https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=Figma)](https://www.figma.com)<br>
 
 [![Flutter](https://img.shields.io/badge/Flutter-black?style=for-the-badge&logo=Flutter)](https://flutter.dev/)
 [![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://reactjs.org/)
