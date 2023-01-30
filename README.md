@@ -17,12 +17,13 @@
 ![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)
 ![NodeJS](https://img.shields.io/badge/node.js-black?style=for-the-badge&logo=node.js)<br>
 
-![C#](https://img.shields.io/badge/-c%23-black?style=for-the-badge&logo=c-sharp)
-![Kotlin](https://img.shields.io/badge/-kotlin-black?style=for-the-badge&logo=kotlin)
-![Java](https://img.shields.io/badge/-java-black?style=for-the-badge&logo=java)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
-![CSS3](https://img.shields.io/badge/-CSS3-black?style=for-the-badge&logo=css3)
-![HTML5](https://img.shields.io/badge/-HTML5-black?style=for-the-badge&logo=html5&logoColor=white)<br>
+![C#](https://img.shields.io/badge/c%23-black?style=for-the-badge&logo=c-sharp)
+![Kotlin](https://img.shields.io/badge/kotlin-black?style=for-the-badge&logo=kotlin)
+![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=java)
+![Dart](https://img.shields.io/badge/dart-black?style=for-the-badge&logo=dart)
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
+![CSS3](https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3)
+![HTML5](https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5&logoColor=white)<br>
 
 ![CircleCI](https://img.shields.io/badge/circle%20ci-black?style=for-the-badge&logo=circleci)
 ![Netlify](https://img.shields.io/badge/netlify-black?style=for-the-badge&logo=netlify)<br>
