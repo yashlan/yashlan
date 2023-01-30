@@ -7,30 +7,30 @@
 
 ## Tech Stack
 
-![Android](https://img.shields.io/badge/Android%20Studio-black?style=for-the-badge&logo=android-studio)
-![Unity](https://img.shields.io/badge/Unity-black?style=for-the-badge&logo=Unity)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-black?style=for-the-badge&logo=visual-studio)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-black?style=for-the-badge&logo=visual-studio-code)
+[![Android Studio](https://img.shields.io/badge/Android%20Studio-black?style=for-the-badge&logo=android-studio)](https://developer.android.com/studio)
+[![Unity](https://img.shields.io/badge/Unity-black?style=for-the-badge&logo=Unity)](https://unity.com/)
+[![Visual Studio](https://img.shields.io/badge/Visual%20Studio-black?style=for-the-badge&logo=visual-studio)](https://visualstudio.microsoft.com/)
+[![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-black?style=for-the-badge&logo=visual-studio-code)](https://code.visualstudio.com/)
 ![Figma](https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=Figma)<br>
 
-![Flutter](https://img.shields.io/badge/Flutter-black?style=for-the-badge&logo=Flutter)
-![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)
-![NodeJS](https://img.shields.io/badge/node.js-black?style=for-the-badge&logo=node.js)<br>
+[![Flutter](https://img.shields.io/badge/Flutter-black?style=for-the-badge&logo=Flutter)](https://flutter.dev/)
+[![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://reactjs.org/)
+[![NodeJS](https://img.shields.io/badge/node.js-black?style=for-the-badge&logo=node.js)](https://nodejs.org/en/)<br>
 
-![C#](https://img.shields.io/badge/c%23-black?style=for-the-badge&logo=c-sharp)
-![Kotlin](https://img.shields.io/badge/kotlin-black?style=for-the-badge&logo=kotlin)
-![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=java)
-![Dart](https://img.shields.io/badge/dart-black?style=for-the-badge&logo=dart)
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
-![CSS3](https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3)
-![HTML5](https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5&logoColor=white)<br>
+[![C#](https://img.shields.io/badge/c%23-black?style=for-the-badge&logo=c-sharp)](https://learn.microsoft.com/en-us/dotnet/csharp/)
+[![Kotlin](https://img.shields.io/badge/kotlin-black?style=for-the-badge&logo=kotlin)](https://kotlinlang.org/)
+[![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=java)](https://www.w3schools.com/java/)
+[![Dart](https://img.shields.io/badge/dart-black?style=for-the-badge&logo=dart)](https://dart.dev/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)](https://www.javascript.com/)
+[![CSS3](https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3)](https://www.w3schools.com/css/)
+[![HTML5](https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3schools.com/html/)<br>
 
-![CircleCI](https://img.shields.io/badge/circle%20ci-black?style=for-the-badge&logo=circleci)
-![Netlify](https://img.shields.io/badge/netlify-black?style=for-the-badge&logo=netlify)<br>
+[![CircleCI](https://img.shields.io/badge/circle%20ci-black?style=for-the-badge&logo=circleci)](https://circleci.com/)
+[![Netlify](https://img.shields.io/badge/netlify-black?style=for-the-badge&logo=netlify)](https://www.netlify.com/)<br>
 
-![PostMan](https://img.shields.io/badge/Postman-black?style=for-the-badge&logo=postman)<br>
+[![PostMan](https://img.shields.io/badge/Postman-black?style=for-the-badge&logo=postman)](https://www.postman.com/)<br>
 
-![Firebase](https://img.shields.io/badge/firebase-black?style=for-the-badge&logo=firebase)
+[![Firebase](https://img.shields.io/badge/firebase-black?style=for-the-badge&logo=firebase)](https://firebase.google.com/)<br>
 
 ## Activity
 
