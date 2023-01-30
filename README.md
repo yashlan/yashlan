@@ -3,7 +3,7 @@
 <!-- <p align="center">
   <img src="https://raw.githubusercontent.com/matfantinel/matfantinel/master/logo.svg" width="300" height="100">
 </p>	 -->
-<img src="https://github.com/yashlan/yashlan/raw/master/waves.svg" >
+<img src="https://github.com/yashlan/yashlan/blob/master/qqqqv2.gif" width="100%">
 
 <!-- [Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yashlan&hide=TeX&layout=compact) -->
 [![wakatime](https://wakatime.com/badge/user/b645fd2f-8dde-4651-aa23-6078acda8f9a.svg?style=for-the-badge)](https://wakatime.com/@b645fd2f-8dde-4651-aa23-6078acda8f9a)
