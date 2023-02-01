@@ -62,3 +62,5 @@ JavaScript             24 hrs 10 mins  ▓░░░░░░░░░░░░�
 ## **Stats**
 ![Yashlan's GitHub stats](https://github-readme-stats.vercel.app/api?username=yashlan&show_icons=true&theme=algolia)
 
+<img src="https://github.com/yashlan/yashlan/blob/master/coffin.gif" width="100%">
+
