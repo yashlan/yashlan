@@ -57,5 +57,6 @@ Other        4 mins          ░░░░░░░░░░░░░░░░░
 ## **Stats**
 ![Yashlan's GitHub stats](https://github-readme-stats.vercel.app/api?username=yashlan&show_icons=true&theme=algolia)
 
-<img src="https://github.com/yashlan/yashlan/blob/master/coffin.gif" width="100%">
+## **Random**
+<img src="https://github.com/yashlan/yashlan/blob/master/1677324324777.jpg" width="100%">
 
