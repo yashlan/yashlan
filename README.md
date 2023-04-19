@@ -55,5 +55,5 @@ Java   6 mins          ▒░░░░░░░░░░░░░░░░░░
 ![Yashlan's GitHub stats](https://github-readme-stats.vercel.app/api?username=yashlan&show_icons=true&theme=algolia)
 
 ## **Random**
-<img src="https://github.com/yashlan/yashlan/blob/master/ac1252d1b7fb0ac00e7ff26e192b7f3d.jpg" width="100%">
+<img src="https://github.com/yashlan/yashlan/blob/master/1681925143517.jpg" width="100%">
 
