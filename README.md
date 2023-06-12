@@ -52,7 +52,11 @@ Java            37 mins         █░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 
 <!-- ![Yashlan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yashlan) -->
-<img src="https://wakatime.com/share/@b645fd2f-8dde-4651-aa23-6078acda8f9a/b29a548c-d1fb-470b-930d-d8146fcdb422.svg" width="500"><img src="https://wakatime.com/share/@b645fd2f-8dde-4651-aa23-6078acda8f9a/98aba062-0ff0-4154-8640-936ded8f76cd.svg" width="500">
+<img src="https://wakatime.com/share/@yashlan/50ebae29-b109-403d-b6b3-b3bd4521b7ba.svg" width="500">
+<img src="https://wakatime.com/share/@yashlan/b28c284e-168d-43cb-9b9d-d470dc39c5b0.svg" width="500">
+<img src="https://wakatime.com/share/@yashlan/75f0d5f6-7430-4aab-9291-d146b3a6bd6e.svg" width="500">
+<img src="https://wakatime.com/share/@yashlan/2b9b21e8-b8d9-4e1e-a5ea-802681c20e54.svg" width="500">
+<img src="https://wakatime.com/share/@yashlan/1bbf1a4b-7f21-4539-8235-d1b8eb0a8694.svg" width="500">
 
 ## **Stats**
 ![Yashlan's GitHub stats](https://github-readme-stats.vercel.app/api?username=yashlan&show_icons=true&theme=algolia)
