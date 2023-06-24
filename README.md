@@ -55,5 +55,5 @@ C#   9 hrs 56 mins   ███████████████████�
 ![Yashlan's GitHub stats](https://github-readme-stats.vercel.app/api?username=yashlan&show_icons=true&theme=algolia)
 
 ## **Random**
-<img src="https://github.com/yashlan/yashlan/blob/master/1681925143517.jpg" width="100%">
+<img src="https://github.com/yashlan/yashlan/blob/master/IMG_0392.jpeg" width="100%">
 
