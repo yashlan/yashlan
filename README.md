@@ -42,7 +42,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-C#   6 hrs 36 mins   █████████████████████████   100.00 %
+C#   5 hrs 5 mins    █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
