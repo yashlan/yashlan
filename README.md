@@ -42,8 +42,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Objective-C++   1 min           ██████████████████████▓░░   90.77 %
-C#              0 secs          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.23 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
