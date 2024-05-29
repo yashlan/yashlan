@@ -42,7 +42,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+C#                1 hr 40 mins    ██████████████████████░░░   88.37 %
+Java Properties   7 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.47 %
+Groovy            5 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.97 %
+Other             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
 ```
 
 <!--END_SECTION:waka-->
