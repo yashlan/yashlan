@@ -49,12 +49,9 @@ JSON   13 mins         ▓░░░░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 
 <!-- ![Yashlan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yashlan) -->
-<img src="https://wakatime.com/share/@yashlan/c7286096-f35b-40b8-ad15-297f288e0ed7.svg" width="500"><img src="https://wakatime.com/share/@yashlan/ff040093-d158-4460-83b4-e029bb455573.svg" width="500">
-<img src="https://wakatime.com/share/@yashlan/cc9fc51a-5d0b-4cff-ab51-f751022abba4.svg" width="500"><img src="https://wakatime.com/share/@yashlan/77c3f089-9e6a-49d2-b231-c3630752724d.svg" width="500">
+## **Activity All Time**
+<img src="https://wakatime.com/share/@yashlan/d50a2573-f90b-40d8-abde-7ec58c96afa0.svg" width="500">
 
-## **Stats**
+## **Current Stats**
 ![Yashlan's GitHub stats](https://github-readme-stats.vercel.app/api?username=yashlan&show_icons=true&theme=algolia)
-
-## **Random**
-<img src="https://github.com/yashlan/yashlan/blob/master/Screenshot_20190506-223354_Lite_Original.jpeg" width="100%">
 
