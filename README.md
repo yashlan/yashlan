@@ -42,10 +42,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-C#            1 hr 36 mins    ████████████████████░░░░░   80.56 %
-Objective-C   12 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.35 %
-Other         10 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.06 %
-CocoaPods     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
