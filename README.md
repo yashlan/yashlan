@@ -42,8 +42,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Python   2 hrs 3 mins    ███████████████████████▒░   92.97 %
-C#       9 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.03 %
+Python   2 hrs 3 mins    █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
