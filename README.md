@@ -42,7 +42,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+C#       46 mins         ████████████████████████▓   98.52 %
+Groovy   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.48 %
 ```
 
 <!--END_SECTION:waka-->
