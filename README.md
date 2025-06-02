@@ -42,8 +42,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-C#       1 hr 53 mins    ███████████████████████▒░   93.68 %
-Groovy   7 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.32 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
