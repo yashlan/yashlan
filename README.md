@@ -42,11 +42,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Objective-C++   3 mins          ██████████▓░░░░░░░░░░░░░░   43.22 %
-C#              2 mins          ███████▒░░░░░░░░░░░░░░░░░   29.98 %
-JavaScript      1 min           ██████▒░░░░░░░░░░░░░░░░░░   24.94 %
-HTML            0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.93 %
-CSV             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
