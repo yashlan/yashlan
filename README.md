@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=3500&vCenter=true&center=true&width=1800&lines=Learn.+Grow.+Improve.;“Indeed,+Allah+will+not+change+the+condition+of+a+people+until+they+change+what+is+in+themselves.”+—+QS.+Ar-Ra’d+13:11)](https://git.io/typing-svg)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=3500&vCenter=true&center=true&width=1800&lines=Learn.+Grow.+Improve.;“Indeed,+Allah+will+not+change+the+condition+of+a+people+until+they+change+what+is+in+themselves.”+—+QS.+Ar-Ra’d+13:11)
 
 <!-- <p align="center">
   <img src="https://raw.githubusercontent.com/matfantinel/matfantinel/master/logo.svg" width="300" height="100">
