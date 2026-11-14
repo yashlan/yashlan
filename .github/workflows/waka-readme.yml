@@ -3,8 +3,8 @@ name: Waka Readme
 on:
   workflow_dispatch:
   schedule:
-    # Runs at 12am UTC
-    - cron: "0 0 * * *"
+    # Runs every day at 12:00 WIB (05:00 UTC)
+    - cron: "0 5 * * *"
 
 jobs:
   update-readme:
@@ -14,3 +14,5 @@ jobs:
       - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          TIME_RANGE: last_7_days
+          SHOW_TIME: true
